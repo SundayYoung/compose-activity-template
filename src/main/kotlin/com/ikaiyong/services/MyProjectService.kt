@@ -1,7 +1,7 @@
-package com.github.sundayyoung.composeactivitytemplate.services
+package com.ikaiyong.services
 
 import com.intellij.openapi.project.Project
-import com.github.sundayyoung.composeactivitytemplate.MyBundle
+import com.ikaiyong.MyBundle
 
 class MyProjectService(project: Project) {
 

@@ -1,4 +1,4 @@
-package com.github.sundayyoung.composeactivitytemplate
+package com.ikaiyong
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.psi.xml.XmlFile

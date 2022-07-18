@@ -1,4 +1,4 @@
-package com.github.sundayyoung.composeactivitytemplate
+package com.ikaiyong
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
